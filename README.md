@@ -1,4 +1,4 @@
-# nodejs-restful-api
+# nodejs-jwt
 
 
 How to create a RESTful CRUD API using Nodejs and Implementing JWT?
